@@ -1,5 +1,7 @@
 # 2048 AI Game
 
+![2048](./2048.gif)
+
 ## Reglas del juego
 
 Grid de 4x4 donde los valores son potencias del valor 2.
