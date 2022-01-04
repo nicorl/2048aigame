@@ -32,4 +32,4 @@ Enfoque basado en [Monte Carlo](https://es.wikipedia.org/wiki/M%C3%A9todo_de_Mon
 3. Instala **requirements.txt** dentro del ambiente creado (game2048ai)
 ``` pip3 install -r requirements.txt```
 
-4. Ejecuta el fichero `agente.py` desde el ambiente creado (game2048ai)
+4. Ejecuta el fichero `game_display.py` desde el ambiente creado (game2048ai)
